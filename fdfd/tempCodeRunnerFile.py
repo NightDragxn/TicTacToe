@@ -1,3 +1,0 @@
-
-
-print(Computer_wahl)
